@@ -1,5 +1,4 @@
 //图书管理系统结构体
-//时间
 typedef struct timeInfo{
 	int year;
 	int mouth;
